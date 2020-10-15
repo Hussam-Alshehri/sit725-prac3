@@ -1,0 +1,23 @@
+{
+  "name": "sit725-prac3",
+  "version": "1.0.0",
+  "description": "prac 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hussam-Alshehri/sit725-prac3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hussam-Alshehri/sit725-prac3/issues"
+  },
+  "homepage": "https://github.com/Hussam-Alshehri/sit725-prac3#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1"
+  }
+}
