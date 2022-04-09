@@ -18,6 +18,6 @@
   "homepage": "https://github.com/Hussam-Alshehri/sit725-prac3#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "moment": "^2.29.1"
+    "moment": "^2.29.2"
   }
 }
